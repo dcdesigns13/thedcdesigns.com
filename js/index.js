@@ -5,6 +5,7 @@ var anchors = [].slice.call(
 );
 var listeners = [
   "init",
+  "update",
   "scroll.before",
   "scroll.start",
   "scroll",
